@@ -1,0 +1,9 @@
+Package: com.imkpatil.spotcc
+Name: SpotCC
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Maintainer: P2KDev <p2kdev@gmail.com>
+Author: P2KDev <p2kdev@gmail.com>
+Section: Tweaks
